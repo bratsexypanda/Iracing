@@ -242,4 +242,4 @@ iRacing is offered as a full version game with all features and updates included
 Get ready to hit the tracks with iRacing. Download your free version today and experience the ultimate racing simulation!
 
 ---
-**Last updated:** 2026-10-06 22:15:51 UTC
+**Last updated:** 2026-10-07 02:02:26 UTC
